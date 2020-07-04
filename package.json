@@ -1,0 +1,17 @@
+{
+  "name": "scratch-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "scratch-api": "file:scratch-api",
+    "ws": "^7.3.0"
+  }
+}
