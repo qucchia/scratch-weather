@@ -12,6 +12,6 @@
   "dependencies": {
     "prompt": "^1.0.0",
     "scratch-api": "file:scratch-api",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   }
 }
